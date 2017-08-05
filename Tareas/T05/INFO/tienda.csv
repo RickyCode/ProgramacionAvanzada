@@ -1,0 +1,10 @@
+# TIPO , POSICION , SPRITE SHEET
+tienda , DEFINIR  , DEFINIR
+#
+#   PRODUCTO          ,PRECIO INICIAL , BONIFICACIÓN DE ATRIBUTO
+ Arma de Mano         ,       5       , danho: +2
+ Arma de Distancia    ,       5       , rango_ataque: +2
+ Botas                ,       2       , vel_mov: +3
+ Baculo               ,       7       , habilidad_unica: +2
+ Armadura             ,       5       , danho:enemigo: -2
+ Carta Earthstone     ,      10       , random: +6

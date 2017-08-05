@@ -1,0 +1,14 @@
+COMANDOS QUE SE PUEDEN INGRESAR POR CONSOLA:
+
+- terminar sevidor
+- lista comandos
+- mostrar conectados
+
+
+COMANDOS QUE PUEDE RECIBIR EL SERVIDOR DEL CLIENTE:
+
+- desconectar
+- terminar servidor
+- lista comandos
+- chat
+- mostrar conectados

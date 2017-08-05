@@ -1,0 +1,13 @@
+# numero , nombre                             , dificultad , rango de horas para sacar entre 1.1 - 3.9 , 4.0 - 5.9 , 6.0 - 6.9 , 7.0
+  1      , programacion orientada a objetos   , 2          ,                                    0-2    ,    3-4    ,    5-6    ,  7
+  2      , herencia composición y agregación  , 2          ,                                    0-3    ,    4-6    ,     7     ,  8
+  3      , listas set y diccionario           , 3          ,                                    0-1    ,    2-4    ,    5-6    ,  7
+  4      , arbol y grafos                     , 5          ,                                    0-2    ,    3-5    ,    6-7    ,  8
+  5      , funcional                          , 7          ,                                    0-3    ,    4-7    ,     8     ,  9
+  6      , metaclases                         , 10         ,                                    0-4    ,    5-7    ,    8-9    ,  10
+  7      , simulacion                         , 7          ,                                    0-3    ,    4-6    ,    7-8    ,  9
+  8      , threading                          , 9          ,                                    0-2    ,    3-5    ,    6-7    ,  8
+  9      , interfaz grafica                   , 1          ,                                    0-1    ,    2-4    ,    5-6    ,  7
+  10     , bytes y seriacion                  , 6          ,                                    0-4    ,    5-7    ,    8-9    ,  10
+  11     , networking                         , 6          ,                                    0-2    ,    3-5    ,    6-7    ,  8
+  12     , webservices                        , 5          ,                                    0-2    ,    3-7    ,     8     ,  9
